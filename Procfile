@@ -1,0 +1,1 @@
+web: gunicorn firebuild.wsgi --log-file -
